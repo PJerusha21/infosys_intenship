@@ -213,8 +213,5 @@ See the `LICENSE` file in the repository for full license details.
 
 ## Project Contributors
 
-* Keerthi Polepalli
-* Prashant K Pathak
-* Nagamani Mannempalli
 * Jerusha
-* Vaishnavi
+  
