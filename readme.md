@@ -211,7 +211,7 @@ See the `LICENSE` file in the repository for full license details.
 
 ---
 
-## Project Contributors
+## Done By
 
 * Jerusha
   
