@@ -124,25 +124,6 @@ Before running the project, install:
 
 ---
 
-## Setup and Installation
-
-### Backend Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/polepallikeerthi/Inventra-Intelligent-Inventory-Management-System.git
-cd Inventra-Intelligent-Inventory-Management-System/backend
-```
-
-2. Configure database in `application.properties`:
-
-```
-spring.datasource.url=jdbc:mysql://localhost:3306/inventra_db
-spring.datasource.username=YOUR_DB_USERNAME
-spring.datasource.password=YOUR_DB_PASSWORD
-```
-
 3. Build and run the backend:
 
 ```bash
